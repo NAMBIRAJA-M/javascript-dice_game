@@ -11,7 +11,7 @@ Player win detection
  * Installation 
 Clone the repo
 
-git clone https://github.com/your_username/dice_game.git
+git clone (https://github.com/NAMBIRAJA-M/javascript-dice_game.git)
 
 Open index.html in your web browser to play the game.
  * Usage
